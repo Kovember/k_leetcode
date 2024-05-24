@@ -1,2 +1,3 @@
 # k_leetcode
-Record my leetcode daily practice.
+
+偶然间发现自己已经很久没有刷算法题了，故创建此仓库，用于记录每日刷题的思路和代码。
